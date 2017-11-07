@@ -3,7 +3,7 @@
 
    <item
        android:id="@+id/user_profile"
-       android:title="my profile"
+       android:title="my Profile"
        android:icon="@drawable/ic_person"
        />
     <item android:title="Communicate">
